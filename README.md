@@ -1,6 +1,8 @@
 # project-maverick
 A partner project with @kurtgalvin to explore deep learning and the possibilities of forecasting the Foreign Exchange (FOREX) market.
 
+Apologies in advance for lack of documentation. This was not documented at the time of creation and it is quite hard to go back and add relevant comments after the fact.
+
 ## Installation
 
 Requires Pandas, Numpy, MatplotLib, Keras, Tensorflow for deep learning models and predictions. Oanda V20 REST API to communicate with oanda brokerage. And Twilio API for live hourly updates to cellphone.
