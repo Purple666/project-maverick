@@ -26,4 +26,5 @@ Refinery.py leftout as it contains secret training techniques used to occasional
 
 ## Project Status
 
-This project will likely stay as just an experiment.  Deep learning practice and experience will be further developed and improved upon in other projects in the future. 
+This project will likely stay as just an experiment.  
+Deep learning practice and experience will be further developed and improved upon in other projects in the future. 
